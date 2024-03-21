@@ -1,0 +1,12 @@
+.contenedor-titulo{
+    width: 1300px;
+    color: #003049;
+    margin: auto;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;   
+}
+
+.contenedor-titulo h3{
+    font-size: 3rem;
+}

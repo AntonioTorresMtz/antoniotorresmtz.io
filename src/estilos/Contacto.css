@@ -1,0 +1,12 @@
+.contenedor-principal-contacto{
+    max-width: 1300px;
+    margin: auto;
+    background-color: #003049;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+

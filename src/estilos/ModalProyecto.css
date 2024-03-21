@@ -1,0 +1,63 @@
+.contenedor-modal-proyecto {
+  width: 90%;
+  min-height: 600px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999; /* Asegura que el modal esté encima de todo */
+  color: whitesmoke;
+  outline: none;
+}
+
+.ReactModal__Overlay {
+  transform: scale(0);
+  transition: transform 0.3s ease; /* Transición de tamaño */
+}
+
+.ReactModal__Overlay--after-open {
+  transform: scale(1);
+}
+
+.ReactModal__Overlay--before-close {
+  transform: scale(0);
+  opacity: 0;
+}
+
+.ReactModal__Overlay--after-close {
+  transform: scale(0);
+}
+
+.modal-open {
+  opacity: 1; /* Cambia la opacidad a 1 cuando el modal está abierto */
+  visibility: visible; /* Hace que el modal sea visible */
+}
+
+.encabezado-boton-cierre:hover{
+  cursor: pointer;
+}
+
+.encabezado-modal {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100%;
+}
+
+.contenedor-modal-imagenes {
+  width: 2000px;
+}
+
+.contenedor-modal-texto {
+  max-width: 500px;
+  max-height: 450px;
+}

@@ -1,0 +1,21 @@
+.contenedor-modal-texto{
+    padding: 10px;
+    overflow-y: scroll;
+}
+
+.contenedor-modal-texto ul{
+    font-size: 1.1rem;
+}
+
+.contenedor-modal-texto p{
+    font-size: 1.1rem;
+}
+
+span {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+span:hover{
+    cursor: pointer;
+}

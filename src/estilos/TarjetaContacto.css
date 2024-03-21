@@ -1,0 +1,40 @@
+.contenedor-hijos-contacto {
+  width: 500px;
+  height: auto;
+  background-color: rgba(237, 242, 242, 0.9);
+  color: #003049;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 15px;
+}
+
+.contenedor-hijo-logo-contacto {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 20px;
+  font-size: 3rem;
+}
+
+.contenedor-hijo-texto-contacto {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 20px;
+}
+
+.contenedor-hijo-texto-contacto p{
+  margin: 5px;
+}
+
+
+@media (max-width: 634px) {
+  .contenedor-hijos-contacto {
+    width: 80%;
+    height: auto;
+  }
+  
+}

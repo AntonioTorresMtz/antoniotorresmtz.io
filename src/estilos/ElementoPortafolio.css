@@ -1,0 +1,51 @@
+.contenedor-elemento-portafolio {
+  width: 400px;
+  height: 350px;
+  background-color: #003049;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.contenedor-elemento-portafolio:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+}
+
+.contenedor-elemento-imagen-portafolio {
+  width: 90%;
+  height: 90%;
+  background-color: whitesmoke;
+  border-radius: 25px 0 25px 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: auto;
+  height: auto;
+  border-radius: 12px;
+}
+
+.contenedor-elemento-texto-portafolio {
+  position: absolute; /* Establece posición absoluta */
+  top: 50; /* Coloca el texto en la parte superior del contenedor padre */
+  left: 50; /* Coloca el texto en la esquina izquierda del contenedor padre */
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.5
+  ); /* Fondo semi-transparente para mejor legibilidad */
+  color: white; /* Color de texto blanco */
+  padding: 10px; /* Espaciado interno */
+}
+
+.elemento-icono:hover {
+  cursor: pointer;
+}
