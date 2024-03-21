@@ -126,7 +126,7 @@ function Tecnologias() {
     },
   ];
   return (
-    <div className="contenedor-principal-tecnologias">
+    <div className="contenedor-principal-tecnologias" id="tecnologias">
       <TarjetaTecnologias tecnologias={tecnologias} />
     </div>
   );

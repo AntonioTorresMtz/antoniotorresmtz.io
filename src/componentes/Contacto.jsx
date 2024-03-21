@@ -10,7 +10,7 @@ import { FaPhoneAlt } from "react-icons/fa";
 
 function Contacto() {
   return (
-    <div className="contenedor-principal-contacto">
+    <div className="contenedor-principal-contacto" id="contacto">
       <TarjetaContacto
         logo={<MdPinDrop />}
         titulo={"Residencia:"}

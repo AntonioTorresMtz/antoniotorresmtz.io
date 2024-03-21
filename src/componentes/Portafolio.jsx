@@ -119,11 +119,7 @@ function Portafolio() {
       titulo: "Extension de Google Chrome para la Impresion de Tickets",
       url: "https://github.com/AntonioTorresMtz/admin_villahass",
       imagenesCarrusel: [
-        require("../imagenes/aguacate-1.jpg"),
-        require("../imagenes/aguacate-2.jpg"),
-        require("../imagenes/aguacate-3.jpg"),
-        require("../imagenes/aguacate-4.jpg"),
-        require("../imagenes/aguacate-5.jpg"),
+        require("../imagenes/extencion-1.jpg"),
       ],
       categoria: "Desarrollo Web",
       tecnologias: "Javascript, Laravel",
@@ -162,7 +158,13 @@ function Portafolio() {
       titulo: "Algoritmos para la Creacion de Numeros Aleatorios",
       url: "https://github.com/AntonioTorresMtz/numeros_pseudoaleatorios",
       imagenesCarrusel: [
-        require("../imagenes/extencion-1.jpg"),        
+        require("../imagenes/aleatorio-1.jpg"),        
+        require("../imagenes/aleatorio-2.jpg"),
+        require("../imagenes/aleatorio-3.jpg"),        
+        require("../imagenes/aleatorio-4.jpg"),
+        require("../imagenes/aleatorio-5.jpg"),        
+        require("../imagenes/aleatorio-6.jpg"),
+        require("../imagenes/aleatorio-7.jpg"),        
       ],
       categoria: "Aplicacion de consola",
       tecnologias: "Java",
@@ -236,7 +238,7 @@ function Portafolio() {
   ];
 
   return (
-    <div className="contenedor-portafolio">
+    <div className="contenedor-portafolio" id="proyectos">
       {proyectos.map((proyecto, index) => (
         <ElementoPortafolio key={index} proyecto={proyecto} />
       ))}

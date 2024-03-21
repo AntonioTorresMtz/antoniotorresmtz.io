@@ -4,7 +4,7 @@ import foto from "../imagenes/foto.png";
 
 function InfoPrincipal() {
   return (
-    <div className="contenedor-infoprincipal">
+    <div className="contenedor-infoprincipal" id="sobre">
       <div className="imagen-infoprincipal">
         <img src={foto} alt="" />
       </div>
