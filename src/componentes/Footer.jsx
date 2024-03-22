@@ -3,7 +3,7 @@ import "../estilos/Footer.css"
 import { FaHeart } from "react-icons/fa6";
 function Footer() {
   return <div className="contenedor-principal-footer">
-    <p>Programado en Rect  <FaHeart /></p>
+    <p>Programado en React  <FaHeart /></p>
   </div>;
 }
 

@@ -1,0 +1,53 @@
+.contenedor-principal-hackathon {  
+  width: 1300px;
+  margin: auto;
+  background-color: rgba(237, 242, 242, 0.9);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  margin-top: 30px;  
+}
+
+.contenedor-cuerpo-hackathon {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contenedor-imagen-hackathon {
+  max-width: 500px;
+  margin-right: 20px;
+}
+
+.contenedor-imagen-hackathon img {
+  max-width: 500px;
+}
+
+.contenedor-texto-hackathon {
+  text-align: left;
+  max-width: 600px;
+  padding: 20px;
+}
+
+.enlace{
+    color:black
+}
+
+@media (max-width: 1160px) {
+  .contenedor-imagen-hackathon {
+    width: 80%;
+    margin-bottom: 10px;
+  }
+
+  .contenedor-imagen-hackathon img {
+    width: 100%;
+  }
+
+  .contenedor-texto-hackathon {
+    width: 100%;
+  }
+}

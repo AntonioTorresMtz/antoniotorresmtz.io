@@ -6,6 +6,7 @@ import Titulos from "./componentes/Titulos";
 import Tecnologias from "./componentes/Tecnologias";
 import Footer from "./componentes/Footer";
 import Encabezado from "./componentes/Encabezado";
+import Hackathon from "./componentes/Hackathon";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <InfoPrincipal />
         <Titulos titulo={"Proyectos"} />
         <Portafolio />
+        <Hackathon />
         <Titulos titulo={"Contacto"} />
         <Contacto />
         <Titulos titulo={"Lenguajes y Tecnologias"} />
