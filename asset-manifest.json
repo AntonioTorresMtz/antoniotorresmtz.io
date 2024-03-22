@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/antoniotorresmtz.io/static/css/main.46d08de4.css",
-    "main.js": "/antoniotorresmtz.io/static/js/main.7b648101.js",
+    "main.css": "/antoniotorresmtz.io/static/css/main.de623d2a.css",
+    "main.js": "/antoniotorresmtz.io/static/js/main.1a41a5b1.js",
     "static/media/foto.png": "/antoniotorresmtz.io/static/media/foto.5356ebe924a601a6f4d0.png",
     "static/media/por6.jpg": "/antoniotorresmtz.io/static/media/por6.d740b84646fdeedad3c0.jpg",
     "static/media/por2.jpg": "/antoniotorresmtz.io/static/media/por2.1b523f0997c18e29d259.jpg",
@@ -48,17 +48,18 @@
     "static/media/aleatorio-4.jpg": "/antoniotorresmtz.io/static/media/aleatorio-4.5d945790e092243f62a7.jpg",
     "static/media/micas-4.jpg": "/antoniotorresmtz.io/static/media/micas-4.958821fabdb97de47d07.jpg",
     "static/media/aleatorio-2.jpg": "/antoniotorresmtz.io/static/media/aleatorio-2.d5cc01d9e8b6abc2877a.jpg",
+    "static/media/Hackathon.png": "/antoniotorresmtz.io/static/media/Hackathon.429b8aa898b5dc913370.png",
     "static/media/por10.jpg": "/antoniotorresmtz.io/static/media/por10.2580a7b35bfcf9250e07.jpg",
     "static/media/por4.jpg": "/antoniotorresmtz.io/static/media/por4.5211cdd7deacc600990a.jpg",
     "static/media/micas-5.jpg": "/antoniotorresmtz.io/static/media/micas-5.d3e6e8c4a5b342841f65.jpg",
     "static/media/micas-2.jpg": "/antoniotorresmtz.io/static/media/micas-2.bcebab9230e1e76e27c0.jpg",
     "static/media/ciclos-1.jpg": "/antoniotorresmtz.io/static/media/ciclos-1.7b22ae76cfcf057c82bf.jpg",
     "index.html": "/antoniotorresmtz.io/index.html",
-    "main.46d08de4.css.map": "/antoniotorresmtz.io/static/css/main.46d08de4.css.map",
-    "main.7b648101.js.map": "/antoniotorresmtz.io/static/js/main.7b648101.js.map"
+    "main.de623d2a.css.map": "/antoniotorresmtz.io/static/css/main.de623d2a.css.map",
+    "main.1a41a5b1.js.map": "/antoniotorresmtz.io/static/js/main.1a41a5b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.46d08de4.css",
-    "static/js/main.7b648101.js"
+    "static/css/main.de623d2a.css",
+    "static/js/main.1a41a5b1.js"
   ]
 }
