@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/antoniotorresmtz.io/static/css/main.de623d2a.css",
-    "main.js": "/antoniotorresmtz.io/static/js/main.cf3cce9d.js",
+    "main.css": "/antoniotorresmtz.io/static/css/main.b2fae031.css",
+    "main.js": "/antoniotorresmtz.io/static/js/main.e10d418f.js",
     "static/media/foto.png": "/antoniotorresmtz.io/static/media/foto.5356ebe924a601a6f4d0.png",
     "static/media/por2.jpg": "/antoniotorresmtz.io/static/media/por2.1b523f0997c18e29d259.jpg",
     "static/media/aguacate-2.jpg": "/antoniotorresmtz.io/static/media/aguacate-2.bb05a5dc18b8339c195d.jpg",
@@ -23,18 +23,22 @@
     "static/media/directorio-2.jpg": "/antoniotorresmtz.io/static/media/directorio-2.276ad7c65ed879522c31.jpg",
     "static/media/micas-9.jpg": "/antoniotorresmtz.io/static/media/micas-9.f6eaacbd076f31d3f82e.jpg",
     "static/media/micas-6.jpg": "/antoniotorresmtz.io/static/media/micas-6.a39889ab43e284dd1687.jpg",
+    "static/media/herramienta-5.jpg": "/antoniotorresmtz.io/static/media/herramienta-5.2d479a65d8f5294463db.jpg",
     "static/media/micas-4.jpg": "/antoniotorresmtz.io/static/media/micas-4.958821fabdb97de47d07.jpg",
     "static/media/Hackathon.png": "/antoniotorresmtz.io/static/media/Hackathon.429b8aa898b5dc913370.png",
+    "static/media/herramienta-4.jpg": "/antoniotorresmtz.io/static/media/herramienta-4.e12e48742c5041d13003.jpg",
     "static/media/por10.jpg": "/antoniotorresmtz.io/static/media/por10.2580a7b35bfcf9250e07.jpg",
+    "static/media/herramienta-2.jpg": "/antoniotorresmtz.io/static/media/herramienta-2.9747cb51c512ad2065e9.jpg",
     "static/media/micas-5.jpg": "/antoniotorresmtz.io/static/media/micas-5.d3e6e8c4a5b342841f65.jpg",
+    "static/media/herramienta-3.jpg": "/antoniotorresmtz.io/static/media/herramienta-3.df9a8d23b760aa1dfa77.jpg",
     "static/media/micas-2.jpg": "/antoniotorresmtz.io/static/media/micas-2.bcebab9230e1e76e27c0.jpg",
     "static/media/ciclos-1.jpg": "/antoniotorresmtz.io/static/media/ciclos-1.7b22ae76cfcf057c82bf.jpg",
     "index.html": "/antoniotorresmtz.io/index.html",
-    "main.de623d2a.css.map": "/antoniotorresmtz.io/static/css/main.de623d2a.css.map",
-    "main.cf3cce9d.js.map": "/antoniotorresmtz.io/static/js/main.cf3cce9d.js.map"
+    "main.b2fae031.css.map": "/antoniotorresmtz.io/static/css/main.b2fae031.css.map",
+    "main.e10d418f.js.map": "/antoniotorresmtz.io/static/js/main.e10d418f.js.map"
   },
   "entrypoints": [
-    "static/css/main.de623d2a.css",
-    "static/js/main.cf3cce9d.js"
+    "static/css/main.b2fae031.css",
+    "static/js/main.e10d418f.js"
   ]
 }
