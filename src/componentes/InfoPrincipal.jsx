@@ -12,12 +12,12 @@ function InfoPrincipal() {
         <h1>Antonio Torres Martinez</h1>
         <h2>Ingeniero en Sistemas Computacionales</h2>
         <p>
-          ¡Hola! Soy Antonio Torres Martinez, egresado de la carrera de
-          Ingenieria en Sistemas Computacionales por el Instituto Tecnologico de
-          Morelia, con la especialidad en Seguridd de la Información.
+          ¡Hola! Soy Antonio, egresado de la carrera de
+          Ingeniería en Sistemas Computacionales por el Instituto Tecnológico de
+          Morelia, con la especialidad en Seguridad de la Información.
           <br />
           Me apasiona la seguridad informatica, el desarrollo de software y las
-          bases de datos, siempre estoy en busqueda de crear soluciones que
+          bases de datos, siempre estoy en búsqueda de crear soluciones que
           automaticen tareas con ayuda de la programación.
         </p>
       </div>

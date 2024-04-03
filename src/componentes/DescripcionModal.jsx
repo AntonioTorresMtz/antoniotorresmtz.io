@@ -11,7 +11,7 @@ function DescripcionModal({ proyecto }) {
       <h3>Informacion del Proyecto</h3>
       <ul>
         <li>
-          <strong>Categoria</strong>: {proyecto.categoria}
+          <strong>Categoría</strong>: {proyecto.categoria}
         </li>
         <li>
           <strong>Lenguaje</strong>: {proyecto.tecnologias}
@@ -20,7 +20,7 @@ function DescripcionModal({ proyecto }) {
           <strong>Fecha de Proyecto</strong>: {proyecto.fecha}
         </li>
         <li>
-          <strong>Codigo fuente</strong>:{" "}
+          <strong>Código fuente</strong>:{" "}
           <span onClick={visitarCodigo}> Ver </span>
         </li>
       </ul>
