@@ -12,8 +12,7 @@ function InfoPrincipal() {
         <h1>Antonio Torres Martinez</h1>
         <h2>Ingeniero en Sistemas Computacionales</h2>
         <p>
-          ¡Hola! Soy Antonio, egresado de la carrera de
-          Ingeniería en Sistemas Computacionales por el Instituto Tecnológico de
+          ¡Hola! Soy Antonio, Ingeniero en Sistemas Computacionales por el Instituto Tecnológico de
           Morelia, con la especialidad en Seguridad de la Información.
           <br />
           Me apasiona la seguridad informatica, el desarrollo de software y las
