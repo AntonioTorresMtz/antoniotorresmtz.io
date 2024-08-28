@@ -2,6 +2,7 @@ import React from "react";
 import "../estilos/ModalProyecto.css";
 import Modal from "react-modal";
 import { IoIosClose } from "react-icons/io";
+import CarruselModal from "./CarruselModal";
 import DescripcionModal from "./DescripcionModal";
 Modal.setAppElement('#root');
 function ModalProyecto({ isOpen, onRequestClose, proyecto }) {

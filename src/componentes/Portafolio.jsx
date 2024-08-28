@@ -142,6 +142,29 @@ function Portafolio() {
         " (porque la plataforma 'Prontipagos' borra cada cierto tiempo los registros de ventas) e imprime un ticket de compra, para el cliente.",
     },
     {
+      imagenPortada: require("../imagenes/por3.jpg"),
+      titulo: "Reproductor de musica para Anuncios",
+      url: "https://github.com/AntonioTorresMtz/musica_publicidad",
+      imagenesCarrusel: [
+        require("../imagenes/musica-1.jpg"),
+        require("../imagenes/musica-2.jpg"),
+        require("../imagenes/musica-3.jpg"),
+        require("../imagenes/musica-4.jpg"),
+      ],
+      categoria: "Desarrollo Web",
+      tecnologias: "HTML, CSS, Javascript",
+      fecha: "2024",
+      descripcion:
+        "Este es un reproductor de musica en el cual se pueden agregar spot publicitarios entre cancion y cancion."+
+        "Aunque esta construido con tecnologias web, esta pensado para reproducir musica alojada de manera local en "+
+        "la computadora. Cada vez que se habre el programa se debe leer una carpeta que cargue la musica y otra que cargue"+
+        "la los spots publicitarios. <br>" +
+        "Este reproductor esta diseñado para reproducir un spot publicitario entre cancion y cancion, pensado"+
+        "para negocios fisicos, ambientar y atraer la atencion de la gente que este transitando. <br>"+
+        "El reproductor incluye funciones como reproducción aleatorio, agregar a cola, controlar el volumen de musica y spots"+
+        "de manera independiente cada uno y controles por medio del teclado (manejar volumen, siguiente y anterior cancion y pausar).",
+    },
+    {
       imagenPortada: require("../imagenes/por2.jpg"),
       titulo: "Inventario de Empaque de Aguacate",
       url: "https://github.com/AntonioTorresMtz/admin_villahass",
