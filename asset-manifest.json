@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/antoniotorresmtz.io/static/css/main.b2fae031.css",
-    "main.js": "/antoniotorresmtz.io/static/js/main.e10d418f.js",
+    "main.js": "/antoniotorresmtz.io/static/js/main.3b7f6e91.js",
     "static/media/foto.png": "/antoniotorresmtz.io/static/media/foto.5356ebe924a601a6f4d0.png",
     "static/media/por2.jpg": "/antoniotorresmtz.io/static/media/por2.1b523f0997c18e29d259.jpg",
     "static/media/aguacate-2.jpg": "/antoniotorresmtz.io/static/media/aguacate-2.bb05a5dc18b8339c195d.jpg",
@@ -28,17 +28,22 @@
     "static/media/Hackathon.png": "/antoniotorresmtz.io/static/media/Hackathon.429b8aa898b5dc913370.png",
     "static/media/herramienta-4.jpg": "/antoniotorresmtz.io/static/media/herramienta-4.e12e48742c5041d13003.jpg",
     "static/media/por10.jpg": "/antoniotorresmtz.io/static/media/por10.2580a7b35bfcf9250e07.jpg",
+    "static/media/por3.jpg": "/antoniotorresmtz.io/static/media/por3.d90a4091c06d2bf76c9d.jpg",
+    "static/media/musica-3.jpg": "/antoniotorresmtz.io/static/media/musica-3.a567bcb705597cee587d.jpg",
+    "static/media/musica-2.jpg": "/antoniotorresmtz.io/static/media/musica-2.ce1610cda1512f2f52e3.jpg",
     "static/media/herramienta-2.jpg": "/antoniotorresmtz.io/static/media/herramienta-2.9747cb51c512ad2065e9.jpg",
+    "static/media/musica-1.jpg": "/antoniotorresmtz.io/static/media/musica-1.4a60f32595124c4c32e5.jpg",
     "static/media/micas-5.jpg": "/antoniotorresmtz.io/static/media/micas-5.d3e6e8c4a5b342841f65.jpg",
     "static/media/herramienta-3.jpg": "/antoniotorresmtz.io/static/media/herramienta-3.df9a8d23b760aa1dfa77.jpg",
+    "static/media/musica-4.jpg": "/antoniotorresmtz.io/static/media/musica-4.1df05c1164e151825091.jpg",
     "static/media/micas-2.jpg": "/antoniotorresmtz.io/static/media/micas-2.bcebab9230e1e76e27c0.jpg",
     "static/media/ciclos-1.jpg": "/antoniotorresmtz.io/static/media/ciclos-1.7b22ae76cfcf057c82bf.jpg",
     "index.html": "/antoniotorresmtz.io/index.html",
     "main.b2fae031.css.map": "/antoniotorresmtz.io/static/css/main.b2fae031.css.map",
-    "main.e10d418f.js.map": "/antoniotorresmtz.io/static/js/main.e10d418f.js.map"
+    "main.3b7f6e91.js.map": "/antoniotorresmtz.io/static/js/main.3b7f6e91.js.map"
   },
   "entrypoints": [
     "static/css/main.b2fae031.css",
-    "static/js/main.e10d418f.js"
+    "static/js/main.3b7f6e91.js"
   ]
 }
